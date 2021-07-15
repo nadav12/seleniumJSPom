@@ -15,8 +15,7 @@
   },
   "devDependencies": {
     "moca": "^0.4.3",
-    "mocha": "^9.0.2",
-    "wdio-selenium-standalone-service": "0.0.12"
+    "mocha": "^9.0.2"
   },
   "repository": {
     "type": "git",

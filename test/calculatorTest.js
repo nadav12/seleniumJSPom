@@ -5,8 +5,8 @@ var baseurl = 'https://www.google.co.il/search?q=google+calculator';
 var assert = require('assert');
 
 const mathAddTest = '10+5'; //pass the math as a string, works with add
-const expectBtnNm = 19;
-const expectBtn = 45;
+const expectBtnNm = 10;
+const expectBtn = 43;
 
 function add (a,b) { return a+b }
 
