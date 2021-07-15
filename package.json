@@ -1,0 +1,25 @@
+{
+  "name": "seleniumdemo",
+  "version": "1.0.0",
+  "description": "demo for autofleet",
+  "main": "test/calculatorTest.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha"
+
+  },
+  "author": "nadav t",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^91.0.1",
+    "selenium-webdriver": "^4.0.0-beta.4"
+  },
+  "devDependencies": {
+    "moca": "^0.4.3",
+    "mocha": "^9.0.2",
+    "wdio-selenium-standalone-service": "0.0.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nadav12/seleniumJSPom.git"
+}
+}
